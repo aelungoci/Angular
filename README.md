@@ -1,3 +1,12 @@
+# Run
+
+`npm install` on root folder to install al dependencies.
+`ng serve -o` to open web server.
+
+# Create Project
+
+`ng new NAME` to create a new Angular project.
+
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
