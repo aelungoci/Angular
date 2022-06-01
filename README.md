@@ -8,6 +8,7 @@
 `ng new NAME` to create a new Angular project.
 
 # Bases
+[Project Page](https://angular-aelungoci.netlify.app/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
